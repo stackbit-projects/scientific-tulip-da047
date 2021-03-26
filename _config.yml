@@ -82,3 +82,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://scientific-tulip-da047.netlify.app'
